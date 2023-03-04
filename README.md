@@ -4,11 +4,11 @@ This repository is a practice exercise in which I have created elements and func
 
 ## Do you know?
 
-- JSX in background uses React.createElement. Browser doesn't understands JSX so Babel read our JSX code and converts it so that browser can understand.
-- Babel works as a pipeline where we input our JSX code and it outputs browser friendly code
-- Different ways of compoenent composition: 
+- JSX in the background uses React.createElement. Browser doesn't understand JSX so Babel read our JSX code and converts it so that browser can understand.
+- Babel works as a pipeline where we input our JSX code and it outputs browser-friendly code
+- Different ways of component composition: 
   - `<Header />` - Traditional way
-  - {Header()} - Atlast functional compoent is a JS function only
+  - {Header()} - Atlast functional component is a JS function only
   - {title} - To use elements we can just write the name if the variable we have used to define the react element
 
 ## Technologies Used
