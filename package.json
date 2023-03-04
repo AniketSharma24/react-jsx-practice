@@ -1,0 +1,29 @@
+{
+  "name": "react-jsx-practice",
+  "version": "1.0.0",
+  "description": "This repository is a practice exercise in which I have created elements and functional components using JSX. The main purpose of this repository is to get familiar with JSX and understand how it compiles in the background.",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketSharma24/react-jsx-practice.git"
+  },
+  "author": "Aniket Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketSharma24/react-jsx-practice/issues"
+  },
+  "homepage": "https://github.com/AniketSharma24/react-jsx-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
