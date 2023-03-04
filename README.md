@@ -1,6 +1,6 @@
 # react-jsx-practice
 
-This repository is a practice exercise in which I have created elements using JSX and functional components. The main purpose of this repository is to get familiar with JSX and understand how it compiles in the background. I have also covered the role of Babel, different ways to use components/elements in another component, and component composition.
+This repository is a practice exercise in which I have created elements and functional components using JSX. The main purpose of this repository is to get familiar with JSX and understand how it compiles in the background. I have also covered the role of Babel, different ways to use components/elements in another component, and component composition.
 
 ## Do you know?
 
